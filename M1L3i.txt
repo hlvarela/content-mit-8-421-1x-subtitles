@@ -118,14 +118,14 @@ When we discussed the limit of a adiabaticity classically,
 I hope you remember I gave you the argument of looking
 at the adiabatic condition.
 That the adiabatic case that requires
-omega only that dot to be much smaller than omega [INAUDIBLE]
+omega only that dot to be much smaller than omega R
 squared.
 So here, there being actually what
 the P is in the quantum mechanical problem,
 is just the ratio of the two quantities
 we compared when we looked for the limit of adiabaticity.
 So therefore, the probability for an non-adiabatic transition
-is simply involving these ratio, omega [INAUDIBLE]
+is simply involving these ratio, omega R
 squared over omega dot.
 
 So in other words, we know already
